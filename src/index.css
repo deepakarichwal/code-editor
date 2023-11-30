@@ -56,7 +56,7 @@ body {
 }
 
 .code-mirror-wrapper > :first-child {
-  display: none;
+  /* display: none; */
 }
 
 .code-mirror-wrapper {
