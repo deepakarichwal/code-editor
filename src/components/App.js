@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Editor from "./Editor";
-import useLocalStorage from "../hooks/useLocalStorage";
 
 function App() {
   const [html, setHtml] = useState("");
